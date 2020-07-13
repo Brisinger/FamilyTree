@@ -1,0 +1,12 @@
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Educational\FamilyTree\FamilyTree\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
